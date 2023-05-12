@@ -36,7 +36,25 @@ enable_site_search = true # default: false
   identifier = "misc"
   name = "misc"
   url = "/misc/"
+  weight = 90
+
+  [[menu.navbar]]
+  identifier = "me"
+  name = "me"
+  url = "/me/"
   weight = 100
+    [[menu.navbar]]
+    parent = "me"
+    identifier = "links"
+    name = "links"
+    url = "/me/links"
+    weight = 1
+    [[menu.navbar]]
+    parent = "me"
+    identifier = "blabla"
+    name = "blabla"
+    url = "/me/blabla"
+    weight = 2
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
