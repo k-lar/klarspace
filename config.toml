@@ -2,12 +2,12 @@ baseURL = '/'
 languageCode = 'en-us'
 title = "K_Lar's website"
 theme = "hugo-theme-monochrome"
-footer = "Copyright © 2022-2023 by K_Lar"
 enableEmoji = true
 
 [params]
 author = "K_Lar" # default: no author `meta` tag
 description = 'My personal website'
+footer = "Copyright © 2022-2023 by K_Lar"
 enable_toc = true # default: true
 enable_collapsible_toc = true # default: false
 enable_collapsible_changelogs = true # default: false
@@ -23,20 +23,20 @@ enable_site_search = true # default: false
   identifier = "blog"
   name = "blog"
   title = "blog"
-  url = "blog/"
+  url = "/blog/"
   weight = -100
 
   [[menu.navbar]]
   identifier = "projects"
   name = "projects"
-  url = "projects/"
-  weight = 100
+  url = "/projects/"
+  weight = 80
 
   [[menu.navbar]]
-  identifier = "categories"
-  name = "categories"
-  url = "/categories/"
-  weight = 80
+  identifier = "misc"
+  name = "misc"
+  url = "/misc/"
+  weight = 100
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
