@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = "K_Lar's website"
+title = "klarspace"
 theme = "hugo-theme-monochrome"
 enableEmoji = true
 
@@ -51,9 +51,9 @@ enable_site_search = true # default: false
     weight = 1
     [[menu.navbar]]
     parent = "me"
-    identifier = "blabla"
-    name = "blabla"
-    url = "/me/blabla"
+    identifier = "about_me"
+    name = "about me"
+    url = "/me/about_me"
     weight = 2
 
 [outputs]
