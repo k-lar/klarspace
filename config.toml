@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://k-lar.github.io/klarspace/'
 languageCode = 'en-us'
 title = "klarspace"
 theme = "hugo-theme-monochrome"
