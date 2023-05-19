@@ -15,3 +15,13 @@ toc: false
 ## Cool websites:
 
 - [lofi.cafe](https://lofi.cafe)  
+
+### Free vector images websites:
+
+- [undraw.co](https://undraw.co/)
+- [reshot.com](https://reshot.com/)
+- [lukaszadam.com/illustrations](https://lukaszadam.com/illustrations)
+
+{{< color-block style="info" >}}
+All images here use a free licence (MIT-ish)
+{{< /color-block >}}
