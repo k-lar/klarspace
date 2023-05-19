@@ -1,6 +1,8 @@
 image: alpine:latest
 
 pages:
+  script:
+    - echo "Deploying site"
   artifacts:
     paths:
       - public
