@@ -7,10 +7,9 @@ toc: false
 
 ## My links:
 
-| {{< icon name="gitlab" link="https://gitlab.com/k_lar" >}} | **Gitlab**    |
-|------------------------------------------------------------|---------------|
-| {{< icon name="github" link="https://gitlab.com/k_lar" >}} | **Github**    |
-| {{< icon name="play" link="https://gitlab.com/k_lar" >}}   | **Startpage** |
+| {{< icon vendor="feather" name="github" link="https://github.com/k-lar" >}} | **Github**    |
+|-----------------------------------------------------------------------------|---------------|
+| {{< icon vendor="feather" name="gitlab" link="https://gitlab.com/k_lar" >}} | **Gitlab**    |
 
 ## Cool websites:
 
