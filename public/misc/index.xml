@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>klarspace</title><link>https://k-lar.github.io/klarspace/misc/</link><description>Recent content on klarspace</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://k-lar.github.io/klarspace/misc/index.xml" rel="self" type="application/rss+xml"/><item><title>Bruh</title><link>https://k-lar.github.io/klarspace/misc/bruh/</link><pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate><guid>https://k-lar.github.io/klarspace/misc/bruh/</guid><description>Bruh.</description></item><item><title>Linux copypasta</title><link>https://k-lar.github.io/klarspace/misc/linux_copypasta/</link><pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate><guid>https://k-lar.github.io/klarspace/misc/linux_copypasta/</guid><description>GNU/Linux copypasta I&amp;rsquo;d just like to interject for a moment. What you&amp;rsquo;re refering to as Linux, is in fact, GNU/Linux, or as I&amp;rsquo;ve recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>klarspace</title><link>https://blog.k-lar.net/misc/</link><description>Recent content on klarspace</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.k-lar.net/misc/index.xml" rel="self" type="application/rss+xml"/><item><title>Linux copypasta</title><link>https://blog.k-lar.net/misc/linux_copypasta/</link><pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate><guid>https://blog.k-lar.net/misc/linux_copypasta/</guid><description>&lt;h2 id="gnulinux-copypasta" class="header-anchor-wrapper">GNU/Linux copypasta
+&lt;a href="#gnulinux-copypasta" class="header-anchor-link">
+&lt;svg width="16px" height="16px" viewBox="0 0 24 24">
+&lt;svg
+xmlns="http://www.w3.org/2000/svg"
+width="24" height="24" viewBox="0 0 24 24" fill="none"
+stroke="currentColor" stroke-width="2" stroke-linecap="round"
+stroke-linejoin="round">
+&lt;line x1="4" y1="9" x2="20" y2="9">&lt;/line>&lt;line x1="4" y1="15" x2="20" y2="15">&lt;/line>&lt;line x1="10" y1="3" x2="8" y2="21">&lt;/line>&lt;line x1="16" y1="3" x2="14" y2="21">&lt;/line>
+&lt;/svg>
+&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;p>I&amp;rsquo;d just like to interject for a moment. What you&amp;rsquo;re refering to as Linux, is in fact, GNU/Linux, or as I&amp;rsquo;ve
+recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another
+free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital
+system components comprising a full OS as defined by POSIX.&lt;/p></description></item></channel></rss>

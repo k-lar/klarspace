@@ -1,3 +1,164 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>klarspace</title><link>https://k-lar.github.io/klarspace/me/</link><description>Recent content on klarspace</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://k-lar.github.io/klarspace/me/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://k-lar.github.io/klarspace/me/about_me/</link><pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate><guid>https://k-lar.github.io/klarspace/me/about_me/</guid><description>About me Just a guy.
-Linux (and Windows) System Administrator DevOps Engineer Backend Developer Informatics Engineer Programming languages Languages I know Languages I want to learn Go Rust C (C99 or C89) Jai C# Haskell POSIX shell scripting Forth Lua Clojure Python (out of practice) Elm Dart (out of practice) Ruby What I like In no particular order:
-simplicity minimalism tea neovim emacs linux coreboot markdown compilers git What I don&amp;rsquo;t like visual studio modern web unnecessary javascript proprietary formats</description></item><item><title>My links</title><link>https://k-lar.github.io/klarspace/me/links/</link><pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate><guid>https://k-lar.github.io/klarspace/me/links/</guid><description>My links: Gitlab Github Startpage Cool websites: lofi.cafe Free vector images websites: undraw.co reshot.com lukaszadam.com/illustrations All images here use a free licence (MIT-ish)</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>klarspace</title><link>https://blog.k-lar.net/me/</link><description>Recent content on klarspace</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.k-lar.net/me/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://blog.k-lar.net/me/about_me/</link><pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate><guid>https://blog.k-lar.net/me/about_me/</guid><description>&lt;h2 id="about-me" class="header-anchor-wrapper">About me
+&lt;a href="#about-me" class="header-anchor-link">
+&lt;svg width="16px" height="16px" viewBox="0 0 24 24">
+&lt;svg
+xmlns="http://www.w3.org/2000/svg"
+width="24" height="24" viewBox="0 0 24 24" fill="none"
+stroke="currentColor" stroke-width="2" stroke-linecap="round"
+stroke-linejoin="round">
+&lt;line x1="4" y1="9" x2="20" y2="9">&lt;/line>&lt;line x1="4" y1="15" x2="20" y2="15">&lt;/line>&lt;line x1="10" y1="3" x2="8" y2="21">&lt;/line>&lt;line x1="16" y1="3" x2="14" y2="21">&lt;/line>
+&lt;/svg>
+&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;p>Just a guy.&lt;/p>
+&lt;ul>
+&lt;li>Linux (and Windows) System Administrator&lt;/li>
+&lt;li>DevOps Engineer&lt;/li>
+&lt;li>Backend Developer&lt;/li>
+&lt;li>Informatics Engineer&lt;/li>
+&lt;/ul>
+&lt;h2 id="programming-languages" class="header-anchor-wrapper">Programming languages
+&lt;a href="#programming-languages" class="header-anchor-link">
+&lt;svg width="16px" height="16px" viewBox="0 0 24 24">
+&lt;svg
+xmlns="http://www.w3.org/2000/svg"
+width="24" height="24" viewBox="0 0 24 24" fill="none"
+stroke="currentColor" stroke-width="2" stroke-linecap="round"
+stroke-linejoin="round">
+&lt;line x1="4" y1="9" x2="20" y2="9">&lt;/line>&lt;line x1="4" y1="15" x2="20" y2="15">&lt;/line>&lt;line x1="10" y1="3" x2="8" y2="21">&lt;/line>&lt;line x1="16" y1="3" x2="14" y2="21">&lt;/line>
+&lt;/svg>
+&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Languages I know&lt;/th>
+&lt;th>Languages I want to learn&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Go&lt;/td>
+&lt;td>Rust&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>C (C99 or C89)&lt;/td>
+&lt;td>Jai&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>C#&lt;/td>
+&lt;td>Haskell&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>POSIX shell scripting&lt;/td>
+&lt;td>Forth&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lua&lt;/td>
+&lt;td>Clojure&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Python &lt;strong>(out of practice)&lt;/strong>&lt;/td>
+&lt;td>Elm&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dart &lt;strong>(out of practice)&lt;/strong>&lt;/td>
+&lt;td>Ruby&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-i-like" class="header-anchor-wrapper">What I like
+&lt;a href="#what-i-like" class="header-anchor-link">
+&lt;svg width="16px" height="16px" viewBox="0 0 24 24">
+&lt;svg
+xmlns="http://www.w3.org/2000/svg"
+width="24" height="24" viewBox="0 0 24 24" fill="none"
+stroke="currentColor" stroke-width="2" stroke-linecap="round"
+stroke-linejoin="round">
+&lt;line x1="4" y1="9" x2="20" y2="9">&lt;/line>&lt;line x1="4" y1="15" x2="20" y2="15">&lt;/line>&lt;line x1="10" y1="3" x2="8" y2="21">&lt;/line>&lt;line x1="16" y1="3" x2="14" y2="21">&lt;/line>
+&lt;/svg>
+&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;p>In no particular order:&lt;/p></description></item><item><title>My links</title><link>https://blog.k-lar.net/me/links/</link><pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate><guid>https://blog.k-lar.net/me/links/</guid><description>&lt;h2 id="my-links" class="header-anchor-wrapper">My links:
+&lt;a href="#my-links" class="header-anchor-link">
+&lt;svg width="16px" height="16px" viewBox="0 0 24 24">
+&lt;svg
+xmlns="http://www.w3.org/2000/svg"
+width="24" height="24" viewBox="0 0 24 24" fill="none"
+stroke="currentColor" stroke-width="2" stroke-linecap="round"
+stroke-linejoin="round">
+&lt;line x1="4" y1="9" x2="20" y2="9">&lt;/line>&lt;line x1="4" y1="15" x2="20" y2="15">&lt;/line>&lt;line x1="10" y1="3" x2="8" y2="21">&lt;/line>&lt;line x1="16" y1="3" x2="14" y2="21">&lt;/line>
+&lt;/svg>
+&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;div class="icon">
+&lt;a rel="noopener" target="_blank" href="https://gitlab.com/k_lar" aria-label="gitlab">
+&lt;/a>
+&lt;/div>
+&lt;/th>
+&lt;th>&lt;strong>Gitlab&lt;/strong>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;div class="icon">
+&lt;a rel="noopener" target="_blank" href="https://gitlab.com/k_lar" aria-label="github">
+&lt;/a>
+&lt;/div>
+&lt;/td>
+&lt;td>&lt;strong>Github&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;div class="icon">
+&lt;a rel="noopener" target="_blank" href="https://gitlab.com/k_lar" aria-label="play">
+&lt;/a>
+&lt;/div>
+&lt;/td>
+&lt;td>&lt;strong>Startpage&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="cool-websites" class="header-anchor-wrapper">Cool websites:
+&lt;a href="#cool-websites" class="header-anchor-link">
+&lt;svg width="16px" height="16px" viewBox="0 0 24 24">
+&lt;svg
+xmlns="http://www.w3.org/2000/svg"
+width="24" height="24" viewBox="0 0 24 24" fill="none"
+stroke="currentColor" stroke-width="2" stroke-linecap="round"
+stroke-linejoin="round">
+&lt;line x1="4" y1="9" x2="20" y2="9">&lt;/line>&lt;line x1="4" y1="15" x2="20" y2="15">&lt;/line>&lt;line x1="10" y1="3" x2="8" y2="21">&lt;/line>&lt;line x1="16" y1="3" x2="14" y2="21">&lt;/line>
+&lt;/svg>
+&lt;/svg>
+&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://lofi.cafe">lofi.cafe&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="free-vector-images-websites" class="header-anchor-wrapper">Free vector images websites:
+&lt;a href="#free-vector-images-websites" class="header-anchor-link">
+&lt;svg width="16px" height="16px" viewBox="0 0 24 24">
+&lt;svg
+xmlns="http://www.w3.org/2000/svg"
+width="24" height="24" viewBox="0 0 24 24" fill="none"
+stroke="currentColor" stroke-width="2" stroke-linecap="round"
+stroke-linejoin="round">
+&lt;line x1="4" y1="9" x2="20" y2="9">&lt;/line>&lt;line x1="4" y1="15" x2="20" y2="15">&lt;/line>&lt;line x1="10" y1="3" x2="8" y2="21">&lt;/line>&lt;line x1="16" y1="3" x2="14" y2="21">&lt;/line>
+&lt;/svg>
+&lt;/svg>
+&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://undraw.co/">undraw.co&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://reshot.com/">reshot.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lukaszadam.com/illustrations">lukaszadam.com/illustrations&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="color-block content-margin" style="background-color: #d9edf7; color: #31708f;" >
+All images here use a free licence (MIT-ish)
+&lt;/div></description></item></channel></rss>
