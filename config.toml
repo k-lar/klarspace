@@ -1,4 +1,4 @@
-baseURL = 'https://k-lar.github.io/klarspace/'
+baseURL = 'https://blog.k-lar.net/'
 languageCode = 'en-us'
 title = "klarspace"
 theme = "hugo-theme-monochrome"
@@ -7,7 +7,7 @@ enableEmoji = true
 [params]
 author = "K_Lar" # default: no author `meta` tag
 description = 'My personal website'
-footer = "Copyright © 2022-2023 by K_Lar"
+footer = "Copyright © 2024-2025 by K_Lar"
 enable_toc = true # default: true
 enable_collapsible_toc = true # default: false
 enable_collapsible_changelogs = true # default: false
